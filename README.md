@@ -9,3 +9,7 @@ This app is developed to translate text of one language to selected language tex
         ./venv/Scripts/activate  
 3. Command to set flask developement mode
    set FLASK_ENV=development
+4. run flask using below command
+   flask run
+5. Open below url in browser
+   http://127.0.0.1:5000
