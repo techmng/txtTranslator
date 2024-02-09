@@ -1,15 +1,15 @@
 # Text Translator
 This app is developed to translate text of one language to selected language text
-1. create python virtual environment
+1. # create python virtual environment
    python -m venv venv
-2. activate virtual environment
-   i) unrestrict terminal for activitating virtual environment. If getting restriction error
+2. # activate virtual environment
+   i) # unrestrict terminal for activitating virtual environment. If getting restriction error
         Set-ExecutionPolicy Unrestricted -Scope Process
-   ii) use below command to activate virtual environemnt
+   ii) # use below command to activate virtual environemnt
         ./venv/Scripts/activate  
-3. Command to set flask developement mode
+3. # Command to set flask developement mode
    set FLASK_ENV=development
-4. run flask using below command
+4. # run flask using below command
    flask run
-5. Open below url in browser
+5. # Open below url in browser
    http://127.0.0.1:5000
